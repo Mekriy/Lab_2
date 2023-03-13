@@ -1,0 +1,15 @@
+C:\NLTU\My nltu reports\The Second Year\Second Semestr\OOP c#\Labwork№2\Labwork№2\obj\Debug\net6.0\Labwork№2.csproj.AssemblyReference.cache
+C:\NLTU\My nltu reports\The Second Year\Second Semestr\OOP c#\Labwork№2\Labwork№2\obj\Debug\net6.0\Labwork№2.GeneratedMSBuildEditorConfig.editorconfig
+C:\NLTU\My nltu reports\The Second Year\Second Semestr\OOP c#\Labwork№2\Labwork№2\obj\Debug\net6.0\Labwork№2.AssemblyInfoInputs.cache
+C:\NLTU\My nltu reports\The Second Year\Second Semestr\OOP c#\Labwork№2\Labwork№2\obj\Debug\net6.0\Labwork№2.AssemblyInfo.cs
+C:\NLTU\My nltu reports\The Second Year\Second Semestr\OOP c#\Labwork№2\Labwork№2\obj\Debug\net6.0\Labwork№2.csproj.CoreCompileInputs.cache
+C:\NLTU\My nltu reports\The Second Year\Second Semestr\OOP c#\Labwork№2\Labwork№2\bin\Debug\net6.0\Labwork№2.exe
+C:\NLTU\My nltu reports\The Second Year\Second Semestr\OOP c#\Labwork№2\Labwork№2\bin\Debug\net6.0\Labwork№2.deps.json
+C:\NLTU\My nltu reports\The Second Year\Second Semestr\OOP c#\Labwork№2\Labwork№2\bin\Debug\net6.0\Labwork№2.runtimeconfig.json
+C:\NLTU\My nltu reports\The Second Year\Second Semestr\OOP c#\Labwork№2\Labwork№2\bin\Debug\net6.0\Labwork№2.dll
+C:\NLTU\My nltu reports\The Second Year\Second Semestr\OOP c#\Labwork№2\Labwork№2\bin\Debug\net6.0\Labwork№2.pdb
+C:\NLTU\My nltu reports\The Second Year\Second Semestr\OOP c#\Labwork№2\Labwork№2\obj\Debug\net6.0\Labwork№2.dll
+C:\NLTU\My nltu reports\The Second Year\Second Semestr\OOP c#\Labwork№2\Labwork№2\obj\Debug\net6.0\refint\Labwork№2.dll
+C:\NLTU\My nltu reports\The Second Year\Second Semestr\OOP c#\Labwork№2\Labwork№2\obj\Debug\net6.0\Labwork№2.pdb
+C:\NLTU\My nltu reports\The Second Year\Second Semestr\OOP c#\Labwork№2\Labwork№2\obj\Debug\net6.0\Labwork№2.genruntimeconfig.cache
+C:\NLTU\My nltu reports\The Second Year\Second Semestr\OOP c#\Labwork№2\Labwork№2\obj\Debug\net6.0\ref\Labwork№2.dll
