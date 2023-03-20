@@ -1,12 +1,24 @@
 ﻿using System.Collections.Generic;
+using System.Drawing;
+
 class SquareMatrix
 {
     int[,] matrix;
-    public int ColAndRowCount { get; set; }
+    private int size;
+    public int ColAndRowCount
+    {
+        get => size; 
+        set
+        {
+            if (value < 0) 
+                throw new ApplicationException("Error! Matrix's size must be greater than 0");
+            size = value;
+        }
+    }
     public SquareMatrix(int count)
     {
-        matrix = new int[count, count];
-        ColAndRowCount = matrix.GetLength(0);
+        ColAndRowCount = count;
+        matrix = new int[ColAndRowCount, ColAndRowCount];
     }
     public void FillElementsRandomly(int min, int max)
     {
@@ -76,7 +88,19 @@ class SquareMatrix
     }
     public static void Main()
     {
-        SquareMatrix obj = new SquareMatrix(5);
+        Console.WriteLine("Type size of matrix: ");
+        int size = Convert.ToInt32(Console.ReadLine());
+        SquareMatrix obj = null;
+        try
+        {
+            obj = new SquareMatrix(size);
+        }
+        catch(Exception e)
+        {
+            Console.WriteLine(e.Message + "\nTry again: ");
+            size = Convert.ToInt32(Console.ReadLine());
+            obj = new SquareMatrix(size);
+        }
         obj.FillElementsRandomly(-10, 30);
         obj.ShowMatrix();
         obj.SumOfPositiveRows();
